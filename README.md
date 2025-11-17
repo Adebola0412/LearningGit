@@ -7,3 +7,4 @@ I have learned to :
 - Clone to my computer
 - Create a new git repo on my computer
 - Push the changes to GitHub
+- I am making progress in this
